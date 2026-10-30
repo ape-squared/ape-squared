@@ -16,4 +16,4 @@ I like to say that I'm a backend developer, though I'm mostly experienced in sys
 
 To contact me quickly and easily, [email me!](mailto:me@ape2.me)
 
-![Ape2's GitHub stats](https://github-readme-stats.vercel.app/api?username=ape-squared&show_icons=true&theme=dark)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ape-squared&theme=nord)

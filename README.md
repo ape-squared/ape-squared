@@ -1,33 +1,34 @@
 # Ape 👋🏾
+
 ### Founder · Software Engineer · Systems Architect
 
 Building software, infrastructure, and experiences that scale.
 
-I'm the founder of **[Block Development](https://blockviewer.org)**, a software engineering firm focused on building reliable software, scalable systems, and thoughtful digital experiences.
+I'm the founder of **Block Development**, a software engineering firm focused on reliable software, scalable systems, and thoughtful digital experiences.
 
-I enjoy working across the stack — from low-level graphics programming and backend architecture to infrastructure automation and complex UI/UX. I'm equally at home debugging a GPU pipeline, designing distributed systems, or making deployment infrastructure disappear behind automation.
+I enjoy working across the stack — from graphics programming and backend architecture to infrastructure automation and complex UI/UX. I'm equally at home debugging a GPU pipeline, designing distributed systems, or making deployment infrastructure disappear behind automation.
 
 Interested in scaling software, distributed systems, graphics programming, network engineering, and gorillas, of course.
 
 ---
 
-## 🏢 Run Block Development
+## 🏢 Block Development
 
 **Engineering with intent. Software built to last.**
 
-Run Block Development is where engineering meets execution. We build software and infrastructure with an emphasis on reliability, performance, maintainability, and thoughtful design.
+Block Development is a software engineering firm building software, infrastructure, and experiences with an emphasis on reliability, performance, maintainability, and thoughtful design.
 
-🌐 **[blockviewer.org](https://blockviewer.org)**  
-🖥️ **[pc.blockviewer.org](https://pc.blockviewer.org)**
+🌐 [**blockviewer.org**](https://blockviewer.org)
 
 ---
 
-## 🔭 What I'm Building
+## 🔭 Our Projects
 
 ### [Block](https://github.com/ape-squared/Block)
-*Open-source post-processing for Second Life viewers.*
 
-A graphics enhancement project bringing modern post-processing to Second Life viewers, including Firestorm, Alchemy, Black Dragon, and friends.
+*Modern post-processing for Second Life viewers.*
+
+Bringing modern post-processing to Second Life viewers, including Firestorm, Alchemy, Black Dragon, and friends.
 
 - Windows OpenGL injection & installer
 - GShade-style visual parity
@@ -36,15 +37,19 @@ A graphics enhancement project bringing modern post-processing to Second Life vi
 
 [Website](https://ape-squared.github.io/Block/) · [Latest Release](https://github.com/ape-squared/Block/releases/latest)
 
-### [LanCache](https://lancache.net)
-*Global low-latency content delivery for gaming.*
+### [Block-Viewer](https://github.com/ape-squared/Block-Viewer)
 
-Infrastructure designed to make game content delivery faster and deployment easier.
+*A Vulkan-powered Second Life viewer.*
 
-- Distributed content delivery infrastructure
-- Azure, Paperspace, and VPS deployments
-- Automated provisioning and rollout pipelines
-- Infrastructure designed for repeatability
+A modern Second Life viewer built around Vulkan, exploring a new approach to graphics performance, rendering architecture, and the viewer experience.
+
+### [BlockPC](https://pc.blockviewer.org)
+
+*Your cloud PC. Without the traditional cloud PC price tag.*
+
+A Shadow PC alternative focused on accessible remote computing, bringing desktop experiences to the cloud.
+
+[Website](https://pc.blockviewer.org)
 
 ---
 
@@ -52,11 +57,11 @@ Infrastructure designed to make game content delivery faster and deployment easi
 
 I specialize in backend engineering and systems administration, with experience spanning application development, infrastructure, and graphics programming.
 
-| Technology | Experience |
-|:--|:--|
-| Kotlin | ~4 years |
-| JavaScript | 5+ years |
-| React | ~2 years |
+| Technology   | Experience                     |
+| :----------- | :----------------------------- |
+| Kotlin       | \~4 years                      |
+| JavaScript   | 5+ years                       |
+| React        | \~2 years                      |
 | C++ / OpenGL | Graphics & systems engineering |
 
 ### Areas of Interest
@@ -75,14 +80,10 @@ I care about engineering software that's not only functional, but understandable
 
 Have a project in mind, want to collaborate, or just talk engineering?
 
-**[me@ape2.me](mailto:me@ape2.me)**
+[**me@ape2.me**](mailto\:me@ape2.me)
 
 ---
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=ape-squared&theme=nord" alt="GitHub Stats" />
-</p>
+\<p align="center">   \<img src="[https://ghstats.dev/api/card?username=ape-squared&theme=nord](https://ghstats.dev/api/card?username=ape-squared\&theme=nord)" alt="GitHub Stats" /> \</p>
 
-<p align="center">
-  <i>Building things that work. Engineering things that last.</i>
-</p>
+\<p align="center">   \<i>Building things that work. Engineering things that last.\</i> \</p>

@@ -3,7 +3,7 @@
 
 Building software, infrastructure, and experiences that scale.
 
-I'm the founder of **[Run Block Development](https://blockviewer.org)**, a software engineering firm focused on building reliable software, scalable systems, and thoughtful digital experiences.
+I'm the founder of **[Block Development](https://blockviewer.org)**, a software engineering firm focused on building reliable software, scalable systems, and thoughtful digital experiences.
 
 I enjoy working across the stack — from low-level graphics programming and backend architecture to infrastructure automation and complex UI/UX. I'm equally at home debugging a GPU pipeline, designing distributed systems, or making deployment infrastructure disappear behind automation.
 

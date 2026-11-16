@@ -46,9 +46,9 @@ I specialize in backend engineering and systems administration, with experience 
 
 | Technology   | Experience                     |
 | :----------- | :----------------------------- |
-| Kotlin       | \~4 years                      |
-| JavaScript   | 5+ years                       |
-| React        | \~2 years                      |
+| Kotlin       | \~7 years                      |
+| JavaScript   | 6+ years                       |
+| React        | \~8 years                      |
 | C++ / OpenGL | Graphics & systems engineering |
 
 ### Areas of Interest

@@ -24,19 +24,6 @@ Block Development is a software engineering firm building software, infrastructu
 
 ## 🔭 Our Projects
 
-### [Block](https://github.com/ape-squared/Block)
-
-*Modern post-processing for Second Life viewers.*
-
-Bringing modern post-processing to Second Life viewers, including Firestorm, Alchemy, Black Dragon, and friends.
-
-- Windows OpenGL injection & installer
-- GShade-style visual parity
-- Transparent per-effect GPU performance costs
-- Experimental Vulkan layer for Linux
-
-[Website](https://ape-squared.github.io/Block/) · [Latest Release](https://github.com/ape-squared/Block/releases/latest)
-
 ### [Block-Viewer](https://github.com/ape-squared/Block-Viewer)
 
 *A Vulkan-powered Second Life viewer.*
